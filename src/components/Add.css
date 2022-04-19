@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(149, 81, 213,0.5);
+    background-image: url('./images/Purple\ Aesthetic\ Minimalist\ Daily\ Motivation\ Flyer.png');
+    
+}
+
+.h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.box{
+    background-color: rgb(101, 138, 138,);
+}
+.bag{
+    background-color:rgb(123, 121, 121,0.5);
+    border-radius: 10px;
+    
+}
+.edit{
+    background-color:rgb(123, 121, 121,0.6);
+    border-radius: 10px;
+    
+}
