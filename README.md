@@ -1,4 +1,4 @@
-This is Contact Manager web app
+This is a Contact Manager Web application developed using React
 
 
 
